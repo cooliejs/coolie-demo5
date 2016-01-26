@@ -1,0 +1,23 @@
+{
+  "/index.html": {
+    "main": [],
+    "async": [],
+    "js": [],
+    "css": [
+      {
+        "dest": "/static/css/9bfb05540ee797bff406a83a4f55aad0.css",
+        "deps": [
+          {
+            "src": "../webroot-dev/coolie-demo5-1.css",
+            "res": []
+          },
+          {
+            "src": "../webroot-dev/coolie-demo5-2.css",
+            "res": []
+          }
+        ]
+      }
+    ],
+    "res": []
+  }
+}
